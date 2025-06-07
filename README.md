@@ -102,7 +102,6 @@ const firebaseConfig = {
 
 ```bash
 git clone https://github.com/your-username/honeypot-as-a-service.git
-cd honeypot-as-a-service
 ```
 
 Then either open `index.html` manually or use:
