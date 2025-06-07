@@ -4,7 +4,7 @@ A **cloud-based honeypot project** designed to **trap and track intruders** via 
 
 ---
 
-## 🔗 Live Project
+##  Live Project
 
 **Hosted on Netlify**  
  [https://dynamic-dodol-2919b3.netlify.app](https://dynamic-dodol-2919b3.netlify.app)
@@ -24,7 +24,7 @@ Password: secure123
 ## 📁 Project Structure
 
 ```
-honeypot-as-a-service/
+honeypot
 │
 ├── index.html            # Public login page
 ├── admin.html            # Admin panel with logs
@@ -98,7 +98,7 @@ const firebaseConfig = {
 
 ---
 
-## 🧑‍💻 Local Setup
+## Local Setup
 
 ```bash
 git clone https://github.com/your-username/honeypot-as-a-service.git
@@ -114,7 +114,7 @@ live-server
 
 ---
 
-## 🧾 Screenshots & Flow
+##  Screenshots & Flow
 
 | Page                | Description                             |
 |---------------------|------------------------------------------|
