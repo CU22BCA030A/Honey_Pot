@@ -101,7 +101,7 @@ const firebaseConfig = {
 ## Local Setup
 
 ```bash
-git clone https://github.com/CU22BCA030A/honeypot-as-a-service.git
+git clone https://github.com/CU22BCA030A/Honey_Pot
 ```
 
 Then either open `index.html` manually or use:
